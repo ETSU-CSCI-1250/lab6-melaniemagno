@@ -1,0 +1,30 @@
+C:\Users\magno\source\repos\Homework6\Homework6\obj\Debug\net6.0\Homework6.csproj.AssemblyReference.cache
+C:\Users\magno\source\repos\Homework6\Homework6\obj\Debug\net6.0\Homework6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magno\source\repos\Homework6\Homework6\obj\Debug\net6.0\Homework6.AssemblyInfoInputs.cache
+C:\Users\magno\source\repos\Homework6\Homework6\obj\Debug\net6.0\Homework6.AssemblyInfo.cs
+C:\Users\magno\source\repos\Homework6\Homework6\obj\Debug\net6.0\Homework6.csproj.CoreCompileInputs.cache
+C:\Users\magno\source\repos\Homework6\Homework6\bin\Debug\net6.0\Homework6.exe
+C:\Users\magno\source\repos\Homework6\Homework6\bin\Debug\net6.0\Homework6.deps.json
+C:\Users\magno\source\repos\Homework6\Homework6\bin\Debug\net6.0\Homework6.runtimeconfig.json
+C:\Users\magno\source\repos\Homework6\Homework6\bin\Debug\net6.0\Homework6.dll
+C:\Users\magno\source\repos\Homework6\Homework6\bin\Debug\net6.0\Homework6.pdb
+C:\Users\magno\source\repos\Homework6\Homework6\obj\Debug\net6.0\Homework6.dll
+C:\Users\magno\source\repos\Homework6\Homework6\obj\Debug\net6.0\refint\Homework6.dll
+C:\Users\magno\source\repos\Homework6\Homework6\obj\Debug\net6.0\Homework6.pdb
+C:\Users\magno\source\repos\Homework6\Homework6\obj\Debug\net6.0\Homework6.genruntimeconfig.cache
+C:\Users\magno\source\repos\Homework6\Homework6\obj\Debug\net6.0\ref\Homework6.dll
+C:\Users\melan\Desktop\intro comp sci\Homework6 (2)\Homework6\Homework6\obj\Debug\net6.0\Homework6.csproj.AssemblyReference.cache
+C:\Users\melan\Desktop\intro comp sci\Homework6 (2)\Homework6\Homework6\obj\Debug\net6.0\Homework6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melan\Desktop\intro comp sci\Homework6 (2)\Homework6\Homework6\obj\Debug\net6.0\Homework6.AssemblyInfoInputs.cache
+C:\Users\melan\Desktop\intro comp sci\Homework6 (2)\Homework6\Homework6\obj\Debug\net6.0\Homework6.AssemblyInfo.cs
+C:\Users\melan\Desktop\intro comp sci\Homework6 (2)\Homework6\Homework6\obj\Debug\net6.0\Homework6.csproj.CoreCompileInputs.cache
+C:\Users\melan\Desktop\intro comp sci\Homework6 (2)\Homework6\Homework6\obj\Debug\net6.0\Homework6.dll
+C:\Users\melan\Desktop\intro comp sci\Homework6 (2)\Homework6\Homework6\obj\Debug\net6.0\refint\Homework6.dll
+C:\Users\melan\Desktop\intro comp sci\Homework6 (2)\Homework6\Homework6\obj\Debug\net6.0\Homework6.pdb
+C:\Users\melan\Desktop\intro comp sci\Homework6 (2)\Homework6\Homework6\bin\Debug\net6.0\Homework6.exe
+C:\Users\melan\Desktop\intro comp sci\Homework6 (2)\Homework6\Homework6\bin\Debug\net6.0\Homework6.deps.json
+C:\Users\melan\Desktop\intro comp sci\Homework6 (2)\Homework6\Homework6\bin\Debug\net6.0\Homework6.runtimeconfig.json
+C:\Users\melan\Desktop\intro comp sci\Homework6 (2)\Homework6\Homework6\bin\Debug\net6.0\Homework6.dll
+C:\Users\melan\Desktop\intro comp sci\Homework6 (2)\Homework6\Homework6\bin\Debug\net6.0\Homework6.pdb
+C:\Users\melan\Desktop\intro comp sci\Homework6 (2)\Homework6\Homework6\obj\Debug\net6.0\Homework6.genruntimeconfig.cache
+C:\Users\melan\Desktop\intro comp sci\Homework6 (2)\Homework6\Homework6\obj\Debug\net6.0\ref\Homework6.dll
